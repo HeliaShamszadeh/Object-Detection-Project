@@ -40,6 +40,8 @@ This project demonstrates how to build a basic object detection system using the
 4. **Visualization**
    - Real-time visualization of detection results using OpenCV
    - Optionally saved detection outputs as video files
+
+---
   
 ## Sample Results
 ![image](https://github.com/user-attachments/assets/4adbfa32-7ccb-4738-b446-539ad5b02673)
